@@ -26,22 +26,27 @@ PROFESSIONAL EXPERIENCE
 - Accomplished Poet, song writer and philosopher (about honey)
 
 WORK EXPERIENCE
+
 I have no previous work experience. I live off my land in the 100 acre woods with my friends.
 
 SKILLS
+
 Ability to enter small spaces to plug them up by mistake
 Commonly forgetful
 Eating a pot of honey in rapid speed
 Walking around with little to no sight whilst wearing a honey pot 
 
 EDUCATION
+
 I’ve studied in the 100 acre woods, being taught basic language and math skills by Chrisopher Robin.
 
 REFERENCES
+
 Piglet - Dear friend
 Christopher Robin - Educator and a great friend
 
 Footer:
+
 CONTACT INFORMATION
 Phone: +12 098 293
 Email: ilovehoney@woods.com
