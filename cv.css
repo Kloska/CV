@@ -48,4 +48,10 @@ img#bild {
     float: right;
     max-width: 90%;
     height: auto;
+    pointer-events: none;
+    user-select: none;
+}
+
+main {
+    margin-top: 3.8rem;
 }
