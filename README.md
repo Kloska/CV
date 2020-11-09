@@ -8,6 +8,9 @@
 
 <h2>Hur gick det?</h2>
 <p>Det har gått bättre än förväntat. Jag har däremot inte följt planeringen helt ut. Jag har inte användt mig av länkar för att navigera på sidan eftersom all eller mestadelen av texten syns direkt på sidan utan att skrolla.</p>
+
 <p>Det som jag har haft mest problem med är att få texten i headern att sitta där jag vill. Enligt skissen ska Nalle puhs namn vara centrerad i headern, men jag fick inte det att fungera. Därför centrerade jag den precis nedanför headern istället vilket också fungerade okej.</p>
+
 <p>Jag är nöjd med min sida. Jag har lärt mig mycket om hur man skriver css på ett bättre sätt än att använda style i html. Jag har också lär mig många nya funktioner inom css, såsom att använda divs, footers, headers och att ändra ikon för sidan.</p>
+
 <p>Jag vill lära mig mer om divs och hur man använder dem på smidigast sätt. Jag vill också lära mig hur man skriver sin css och html på ett så effektivt sätt som möjligt, utan att göra massa fula "olagliga" justeringar som fungerar helt okej.</p>
